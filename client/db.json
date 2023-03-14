@@ -1,0 +1,268 @@
+{
+  "group": [
+    {
+      "img": "https://thuthuatnhanh.com/wp-content/uploads/2022/06/Anh-meme-cheems-trng-thu.jpg",
+      "idGr": "5FAz05TaGJ",
+      "name": "con của chúa",
+      "idAdmin": "635d332a81b714aebb010691",
+      "member": [
+        {
+          "idMember": "63ff24d2adfc53ea944aa3ec",
+          "name": "yen123"
+        },
+        {
+          "idMember": "635d332a81b714aebb010691",
+          "name": "admin"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "img": "https://thuthuatnhanh.com/wp-content/uploads/2022/06/Anh-meme-cheems-trng-thu.jpg",
+      "idGr": "5FAz05TaGJ12321312",
+      "name": "Con cậu vàng",
+      "idAdmin": "635d332a81b714aebb010691",
+      "member": [
+        {
+          "idMember": "635d332a81b714aebb010691",
+          "name": "admin"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "message": [
+    {
+      "content": "Chào mọi người !",
+      "senderId": "EO5MQal76r1qqxHNAASh",
+      "senderIdClient": "64023dac95c74f09a06cc9b0",
+      "name": "123",
+      "idGr": "5FAz05TaGJ",
+      "id": 1
+    },
+    {
+      "content": "Chào bạn !",
+      "senderId": "8-7CrMt58rne0tAiAASf",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 2
+    },
+    {
+      "content": "213",
+      "senderId": "oFNhdSI8hOxiQabRAAS_",
+      "senderIdClient": "64023dac95c74f09a06cc9b0",
+      "name": "123",
+      "idGr": "5FAz05TaGJ",
+      "id": 3
+    },
+    {
+      "content": "haha",
+      "senderId": "C09JdDZjeSZ62fiXAAS9",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 4
+    },
+    {
+      "content": "chán nhờ",
+      "senderId": "C09JdDZjeSZ62fiXAAS9",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 5
+    },
+    {
+      "content": "Chào mọi người nha",
+      "senderId": "WxuPtEAv_UBqxtfZAATH",
+      "senderIdClient": "63ff24d2adfc53ea944aa3ec",
+      "name": "yen123",
+      "idGr": "5FAz05TaGJ",
+      "id": 6
+    },
+    {
+      "content": "Em mới vào gr",
+      "senderId": "d3W1PJ7n8-39lfsXAATN",
+      "senderIdClient": "63ff24d2adfc53ea944aa3ec",
+      "name": "yen123",
+      "idGr": "5FAz05TaGJ",
+      "id": 7
+    },
+    {
+      "content": "Lew lew",
+      "senderId": "5E3y5k4F4Uj7G7rkAAUn",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ12321312",
+      "id": 8
+    },
+    {
+      "content": "123123",
+      "senderId": "oI4wf3YpujdXDzcVAAVl",
+      "senderIdClient": "64023dac95c74f09a06cc9b0",
+      "name": "123",
+      "idGr": "5FAz05TaGJ12321312",
+      "id": 9
+    },
+    {
+      "content": "3123\n",
+      "senderId": "oI-F4rKy8OBr9e7uAAV_",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 10
+    },
+    {
+      "content": "2131",
+      "senderId": "oI-F4rKy8OBr9e7uAAV_",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 11
+    },
+    {
+      "content": "21321",
+      "senderId": "oI-F4rKy8OBr9e7uAAV_",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 12
+    },
+    {
+      "content": "12312",
+      "senderId": "oI-F4rKy8OBr9e7uAAV_",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 13
+    },
+    {
+      "content": "1231",
+      "senderId": "oI-F4rKy8OBr9e7uAAV_",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 14
+    },
+    {
+      "content": "123",
+      "senderId": "oI-F4rKy8OBr9e7uAAV_",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 15
+    },
+    {
+      "content": "1231",
+      "senderId": "oI-F4rKy8OBr9e7uAAV_",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 16
+    },
+    {
+      "content": "",
+      "senderId": "7BS4VBK4lTd7_Uh7AAWP",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 17
+    },
+    {
+      "content": "123213",
+      "senderId": "RqnxHCJGF7hiwqVFAAWR",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 18
+    },
+    {
+      "content": "13213213",
+      "senderId": "RqnxHCJGF7hiwqVFAAWR",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 19
+    },
+    {
+      "content": "1232",
+      "senderId": "ugE5qVYBrtty79CVAAWd",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 20
+    },
+    {
+      "content": "12312",
+      "senderId": "66c3DigTrlj2I85kAAWh",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 21
+    },
+    {
+      "content": "12312",
+      "senderId": "P5hWbCL1NC4kFmY8AAWl",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 22
+    },
+    {
+      "content": "13123",
+      "senderId": "t8i-t64IRJ4-xHhaAAWp",
+      "senderIdClient": "63ff24d2adfc53ea944aa3ec",
+      "name": "yen123",
+      "idGr": "5FAz05TaGJ",
+      "id": 23
+    },
+    {
+      "content": "123",
+      "senderId": "t8i-t64IRJ4-xHhaAAWp",
+      "senderIdClient": "63ff24d2adfc53ea944aa3ec",
+      "name": "yen123",
+      "idGr": "5FAz05TaGJ",
+      "id": 24
+    },
+    {
+      "content": "123123",
+      "senderId": "t8i-t64IRJ4-xHhaAAWp",
+      "senderIdClient": "63ff24d2adfc53ea944aa3ec",
+      "name": "yen123",
+      "idGr": "5FAz05TaGJ",
+      "id": 25
+    },
+    {
+      "content": "1231223213213213213",
+      "senderId": "t8i-t64IRJ4-xHhaAAWp",
+      "senderIdClient": "63ff24d2adfc53ea944aa3ec",
+      "name": "yen123",
+      "idGr": "5FAz05TaGJ",
+      "id": 26
+    },
+    {
+      "content": "1232132132132132131231321312321",
+      "senderId": "t8i-t64IRJ4-xHhaAAWp",
+      "senderIdClient": "63ff24d2adfc53ea944aa3ec",
+      "name": "yen123",
+      "idGr": "5FAz05TaGJ",
+      "id": 27
+    },
+    {
+      "content": "123123123123sghfbghyjukiifjgfds",
+      "senderId": "t8i-t64IRJ4-xHhaAAWp",
+      "senderIdClient": "63ff24d2adfc53ea944aa3ec",
+      "name": "yen123",
+      "idGr": "5FAz05TaGJ",
+      "id": 28
+    },
+    {
+      "content": "gà\n",
+      "senderId": "KBcLH22E0S6e8NrDAAZt",
+      "senderIdClient": "635d332a81b714aebb010691",
+      "name": "admin",
+      "idGr": "5FAz05TaGJ",
+      "id": 29
+    }
+  ]
+}

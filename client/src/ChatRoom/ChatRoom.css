@@ -1,0 +1,195 @@
+.chat-room-container {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    margin: 16px;
+}
+
+.room-name {
+    margin: 0;
+}
+
+.messages-container {
+    flex: 1;
+    min-height: 100px;
+    overflow: auto;
+    border: 1px solid black;
+    border-radius: 7px 7px 0 0;
+}
+
+.messages-list {
+    height: calc(100vh - 115px);
+    overflow: scroll;
+    list-style-type: none;
+    padding: 0;
+}
+
+.new-message-input-field {
+    width: 55%;
+    height: 50px;
+    max-height: 50%;
+    font-size: 20px;
+    padding: 8px 12px;
+    resize: none;
+    transition: .4s;
+}
+
+.message-item {
+    font-size: 16px;
+    width: 55%;
+    margin: 8px;
+    padding: 12px 8px;
+    word-break: break-word;
+    border-radius: 4px;
+    color: white;
+}
+
+.my-message {
+    background-color: rgb(0, 132, 255);
+    margin-left: auto;
+}
+
+.received-message {
+    background-color: #3f4042;
+    margin-right: auto;
+}
+
+.send-message-button {
+    cursor: pointer;
+    width: 15%;
+    /* font-size: 28px; */
+    font-weight: 600;
+    color: white;
+    background: #31a24c;
+    /* padding: 24px 12px; */
+    border: none;
+}
+
+.messages-container,
+.new-message-input-field,
+.send-message-button {
+    border-color: #9a9a9a;
+}
+
+.message-control {
+    position: fixed;
+    display: flex;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 0 16px;
+}
+
+.box {
+    display: flex;
+}
+
+.box-left {
+    width: 100%;
+    transition: .4s;
+}
+
+.box-left-active {
+    width: 70%;
+    transition: .4s;
+}
+
+.box-right {
+    overflow: hidden;
+    width: 0%;
+    transition: .4s;
+    opacity: 0;
+}
+
+
+.box-right-active {
+    opacity: 1;
+    width: 30%;
+    transition: .4s;
+}
+
+.box-right>h1 {
+    font-size: 24px;
+}
+
+.info-gr {
+    display: flex;
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 20px 0;
+}
+
+.info-gr>p {
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.member {
+    cursor: pointer;
+    padding: 20px 20px;
+    background-color: #f6f6f6;
+    margin-left: 10px;
+    border-radius: 5px;
+    transition: .4s;
+}
+
+.member:hover {
+    background-color: #e4e4e4;
+    transform: scale(1.02);
+}
+
+.member>p {
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.member>span {
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.header-room {
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-room>i {
+    cursor: pointer;
+    font-size: 28px;
+    font-weight: 600;
+    transition: .3;
+}
+
+.header-room>i:hover {
+    font-weight: 800;
+    transform: scale(1.05);
+}
+
+.delete-gr>button {
+    cursor: pointer;
+    font-size: 18px;
+    background: none;
+    width: 100%;
+    border: none;
+    /* border-top: 1px solid #3f4042; */
+    /* border: 1px solid #3f4042; */
+    padding: 15px;
+    transition: .3s;
+}
+
+.delete-gr>button:hover {
+    background-color: #3f4042;
+    color: #fff;
+}
+
+.member-all {
+    width: 100%;
+    height: 570px;
+}

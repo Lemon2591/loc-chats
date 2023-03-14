@@ -1,0 +1,221 @@
+@media(max-width:1425px) {}
+
+@media (min-width: 1125px) and (max-width:1425px) {
+    .home-item {
+        width: calc(90%/2);
+    }
+}
+
+/* Tablet */
+@media (min-width:740px) and (max-width:1125px) {
+    .home-item-car {
+        margin: calc((100% - 90%)/ 6);
+        cursor: pointer;
+        width: calc(90%/3);
+        transition: .3s;
+        height: auto;
+        overflow: hidden;
+
+    }
+
+    .nav-profile>ul>li {
+        margin: 0 15px !important;
+    }
+
+    .home-item {
+        width: calc(90%/2);
+    }
+
+    .content-doctor-card {
+        display: block;
+        height: auto;
+    }
+
+    .card-container {
+        width: 100%;
+    }
+
+    .filter-container {
+        padding: 0px 20px;
+        max-width: 1200px;
+        margin-top: 180px;
+        margin-right: auto;
+        margin-left: auto;
+        padding-bottom: 40px;
+        border-bottom: 0.5px #ccc solid;
+    }
+
+    .filter-main {
+        display: block;
+    }
+
+    .filter-item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .filter-item-input {
+        justify-content: flex-start;
+    }
+
+    .filter-item>p {
+        width: 150px;
+    }
+
+    .introduce-doctor {
+        max-height: 250px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        line-height: 25px;
+        -webkit-line-clamp: 10;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+    }
+
+    .info-doctor-detail-header {
+        margin: 0 25px;
+    }
+
+    .popup-booking-container {
+        display: block !important;
+    }
+
+    .popup-booking-detail-left,
+    .popup-booking-detail-right {
+        width: 100% !important;
+        margin: 0 !important;
+    }
+}
+
+
+/* Mobile */
+
+@media (max-width:810px) {
+    .home-item-car {
+        margin: calc((100% - 90%)/ 4);
+        cursor: pointer;
+        width: calc(90%/2);
+        transition: .3s;
+        height: auto;
+        overflow: hidden;
+
+    }
+
+    .home-item {
+        width: calc(100%);
+    }
+
+    .content-doctor-card {
+        display: block;
+        height: auto;
+    }
+
+    .card-container {
+        width: 100%;
+    }
+
+    .filter-container {
+        padding: 0px 20px;
+        max-width: 1200px;
+        margin-top: 150px;
+        margin-right: auto;
+        margin-left: auto;
+        padding-bottom: 20px;
+        border-bottom: 0.5px #ccc solid;
+    }
+
+
+    .filter-main {
+        display: block;
+    }
+
+    .filter-item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    /* .filter-item {
+        justify-content: space-between;
+    } */
+
+    .filter-item>p {
+        width: 150px;
+    }
+
+    .filter-item-input {
+        justify-content: flex-start;
+    }
+
+    .card-item {
+        display: block;
+    }
+
+    .card-detail,
+    .card-img {
+        width: 100%;
+    }
+
+    .card-img {
+        order: 1;
+    }
+
+    /* .autocomplete {
+        width: 100%;
+    } */
+
+    .info-doctor-detail-header {
+        display: block;
+        margin: 0 25px;
+    }
+
+    .info-doctor-detail-name-and-control {
+        width: 100%;
+    }
+
+    .info-doctor-detail-name>p {
+        font-size: 24px;
+        margin: 0;
+    }
+
+    .info-doctor-detail-name {
+        margin-top: 25px;
+    }
+
+    .info-doctor-detail-control {
+        margin-top: 20px;
+    }
+
+    .info-doctor-detail-main {
+        margin-top: 120px;
+    }
+
+    .info-doctor-detail-body-col {
+        display: block;
+    }
+
+    .info-doctor-detail-body-col-item {
+        width: 100%;
+    }
+
+    .chats-items-active {
+        display: block !important;
+    }
+
+    .chats-name {
+        display: none !important;
+    }
+
+    .chats-icon {
+        margin: auto !important;
+    }
+
+    .popup-booking-container {
+        display: block !important;
+    }
+
+    .popup-booking-detail-left,
+    .popup-booking-detail-right {
+        width: 100% !important;
+        margin: 0 !important;
+    }
+}
